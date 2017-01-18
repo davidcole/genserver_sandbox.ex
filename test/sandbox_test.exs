@@ -1,6 +1,6 @@
-defmodule GenserverSandboxTest do
+defmodule SandboxTest do
   use ExUnit.Case
-  doctest GenserverSandbox
+  doctest Sandbox
 
   test "the truth" do
     assert 1 + 1 == 2

@@ -1,2 +1,0 @@
-defmodule GenserverSandbox do
-end

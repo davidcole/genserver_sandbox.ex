@@ -1,8 +1,8 @@
-defmodule GenserverSandbox.Mixfile do
+defmodule Sandbox.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :genserver_sandbox,
+    [app: :sandbox,
      version: "0.1.0",
      elixir: "~> 1.3",
      build_embedded: Mix.env == :prod,
